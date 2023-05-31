@@ -9,7 +9,7 @@ import Display from "./component/Display"
 
 import './App.css';
 import Navbar from "./component/Navbar";
-import Sidebar from "./component/sideBar";
+import Sidebar from "./component/SideBar";
 
 function App() {
 
